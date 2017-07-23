@@ -90,6 +90,10 @@
 - [atom-autocomplete-php](https://atom.io/packages/atom-autocomplete-php) 自动提示php语法，安装要配置php路径
 - [atom-php-navigation](https://atom.io/packages/atom-php-navigation) 自动导航到方法等，快捷键：alt+鼠标左键
 - [linter-php](https://atom.io/packages/linter-php) php语法检查错误提示
+- [php-cs-fixer](https://atom.io/packages/php-cs-fixer) php文件格式化需要这个插架，插件下载后要执行执行以下命令：
+```
+composer  global require friendsofphp/php-cs-fixer
+```
 
 <h3 id="302">需慎重使用的Packages</h3>
 
