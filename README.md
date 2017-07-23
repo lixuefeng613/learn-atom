@@ -86,6 +86,10 @@
 - [Expose](https://atom.io/packages/expose) 俺的开发习惯：开很多窗口；分多屏。那么问题来了：不能很好的切换对应的 ```tab```，这个插件就是解决 ```Tabs``` 切换的问题，依赖[Minimap](https://atom.io/packages/minimap)和[file-icons](https://atom.io/packages/file-icons)。PS：偶在使用中也遇见过小问题，但 [Issues](https://github.com/mrodalgaard/atom-expose/issues?q=is%3Aissue+is%3Aclosed) 里都解决了，有问题去上面找答案吧:)
 - [terminal-panel](https://atom.io/packages/terminal-panel) 不是那么好用的CLI，勉强能凑活
 - [vim-mode](https://atom.io/packages/vim-mode) 劳资就是喜欢zuo，所以在Atom上用vim写码:)
+> 安装关于php的包
+- [atom-autocomplete-php](https://atom.io/packages/atom-autocomplete-php) 自动提示php语法，安装要配置php路径
+- [atom-php-navigation](https://atom.io/packages/atom-php-navigation) 自动导航到方法等，快捷键：alt+鼠标左键
+- [linter-php](https://atom.io/packages/linter-php) php语法检查错误提示
 
 <h3 id="302">需慎重使用的Packages</h3>
 
